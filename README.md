@@ -24,12 +24,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configurat
 
 ## Screenshots
-![Screen 1](/Resources/screen1.jpg)
+![Screen 1](https://github.com/josharsh/To-Do-Form/blob/master/Resources/screen1.png)
 
-![Screen 2](/Resources/screen2.jpg)
+![Screen 2](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen2.png)
 
-![Screen 3](/Resources/screen3.jpg)
+![Screen 3])(https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen1.png)
 
-![Screen 4](/Resources/screen4.jpg)
+![Screen 4](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen1.png)
 
-![Screen 5](/Resources/screen5.jpg)
+![Screen 5](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen1.png)
