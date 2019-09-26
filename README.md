@@ -9,6 +9,14 @@ To build a form to create a To-Do for a Task Manager. The specs are as follows:
 * The "Due Date" should allow the user to select a particular date from a calendar.
 * The form should have a "Save" button, when clicked -- it should redirect me to a confirmation page with the specific details of the to-do shown there.
 
+## Usage
+* @material-ui/core/Button
+* @material-ui/core/Box
+* @material-ui/core/TextField
+* @date-io/date-fns
+* @material-ui/core/MenuItem
+* @material-ui/core/Select
+* react and react-dom
 
 ## Configuration
 
