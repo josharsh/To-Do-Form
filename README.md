@@ -28,8 +28,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ![Screen 2](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen2.png)
 
-![Screen 3])(https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen1.png)
+![Screen 3])(https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen3.png)
 
-![Screen 4](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen1.png)
+![Screen 4](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen4.png)
 
-![Screen 5](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen1.png)
+![Screen 5](https://github.com/josharsh/To-Do-Form/blob/master/Resources/Screen5.png)
